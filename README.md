@@ -1,6 +1,6 @@
 # Project - Programming for Data Analysis
 
-This GITHUB repository contain project detail for 'Programming for Data Analysis' module. The project details are in the Jupyter note, "Programming for Data Analysis - Project.ipynb" which is added to this repository. 
+This is GITHUB repository for 'Programming for Data Analysis' project. The project details are in the Jupyter note, "Programming for Data Analysis - Project.ipynb" which is added to this repository. 
 
 Prerequisite softwares to open and run the "ipynb" file are listed below
 
