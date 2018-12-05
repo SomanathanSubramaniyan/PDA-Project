@@ -7,6 +7,7 @@ Prerequisite softwares to open and run the "ipynb" file are listed below
   - Anaconda 5.3 For Windows
   - python 3.7 version
   - Jupyter notebook package
+  - Seaborn version 0.9.0
   - pandasql 0.7.3 
  
 Install pandasql using the command "pip install -U pandasql" in the command prompt
