@@ -8,9 +8,6 @@ Prerequisite softwares to open and run the "ipynb" file are listed below
   - python 3.7 version
   - Jupyter notebook package
   - Seaborn version 0.9.0
-  - pandasql 0.7.3 
- 
-Install pandasql using the command "pip install -U pandasql" in the command prompt
  
 Steps to run the "Programming for Data Analysis - Project.ipynb" in laptop/desktop are listed below
 
